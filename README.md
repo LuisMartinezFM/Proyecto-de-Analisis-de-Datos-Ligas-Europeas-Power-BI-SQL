@@ -6,7 +6,7 @@ interactivo desarrollado en Power BI.
 ## 📊 Dashboards
 
 ### Premier League
-![Premier](./img/Pantalla_Premier_League.png)
+![Premier](./Pantalla_Premier_League.png)
 
 ### LaLiga
 ![LaLiga](./img/Pantalla_Laliga.png)
