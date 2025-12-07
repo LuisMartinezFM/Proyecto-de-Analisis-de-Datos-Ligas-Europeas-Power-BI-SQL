@@ -8,17 +8,20 @@ interactivo desarrollado en Power BI.
 ### Premier League
 ![Premier](./Pantalla_Premier_League.png)
 
-### LaLiga
-![LaLiga](./Pantalla_Laliga.png)
-
-### Serie A
-![Serie A](./Pantalla_SerieA.png)
+### Ligue 1
+![Ligue 1](./Pantalla_Ligue1.png)
 
 ### Bundesliga
 ![Bundesliga](./Pantalla_Bundesliga.png)
 
-### Ligue 1
-![Ligue 1](./Pantalla_Ligue1.png)
+### Serie A
+![Serie A](./Pantalla_SerieA.png)
+
+
+### LaLiga
+![LaLiga](./Pantalla_Laliga.png)
+
+
 
 ---
 
