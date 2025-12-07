@@ -8,11 +8,12 @@ interactivo desarrollado en Power BI.
 ### Premier League
 ![Premier](./Pantalla_Premier_League.png)
 
+### Bundesliga
+![Bundesliga](./Pantalla_Bundesliga.png)
+
 ### Ligue 1
 ![Ligue 1](./Pantalla_Ligue1.png)
 
-### Bundesliga
-![Bundesliga](./Pantalla_Bundesliga.png)
 
 ### Serie A
 ![Serie A](./Pantalla_SerieA.png)
@@ -22,8 +23,9 @@ interactivo desarrollado en Power BI.
 ![LaLiga](./Pantalla_Laliga.png)
 
 
-
 ---
+
+👉 [Ver archivo SQL](./consultas.sql)
 
 ## 🧾 Dataset
 Archivo:
